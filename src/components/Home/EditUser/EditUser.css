@@ -1,0 +1,13 @@
+/* Edit User */
+.user-data .update-user-form .title {
+    font-size: 40px;
+}
+
+.update-user-form {
+    max-width: 380px;
+}
+
+.update-user-form .user-btns {
+    display: flex;
+    justify-content: space-between;
+}
